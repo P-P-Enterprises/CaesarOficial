@@ -1,0 +1,54 @@
+.header {
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item {
+    font-size: 10px;
+}
+
+.imgnav {
+    width: 50px;
+}
+
+.estilos {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.caixa {
+    padding: 3px; /* Adiciona espaço interno à div */
+    border: 2px solid black;
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    box-sizing: content-box;
+    justify-content: space-between;
+}
+
+p {
+    font-size: 14px;
+}
+.box-produto{
+    border: 2px black solid;
+    align-items: center;
+    margin: 10px 10px 10px 10px;
+}
+.footer{
+    display: flexbox;
+    text-align: center;
+    width: 100%;
+    background-color: #EACD91;
+    height: 100px;
+}
+.logo1{
+    width: 120px;
+    justify-content: center;
+}
+.destaque{
+    display: flex;
+}
