@@ -18,6 +18,9 @@
     width: 100%;
     margin-top: 15px;
     margin-bottom: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
 }
 
 .caixa {
@@ -33,10 +36,15 @@
 p {
     font-size: 14px;
 }
+.destaque{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px
+}
 .box-produto{
     border: 2px black solid;
-    align-items: center;
-    margin: 10px 10px 10px 10px;
+    text-align: center;
 }
 .footer{
     display: flexbox;
@@ -49,6 +57,10 @@ p {
     width: 120px;
     justify-content: center;
 }
-.destaque{
-    display: flex;
+.tittle{
+    text-align: center;
 }
+.beck{
+    text-align: center;
+}
+
