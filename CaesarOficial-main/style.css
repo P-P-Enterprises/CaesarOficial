@@ -1,0 +1,206 @@
+.header {
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+@font-face {
+    font-family: 'Stay Dreaming';
+    src: url('Stay\ Dreaming.otf') format('truetype');
+  }
+.nav-item {
+    font-size: 10px;
+}
+
+.imgnav {
+    width: 50px;
+}
+
+.estilos {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.caixa {
+    padding: 3px; /* Adiciona espaço interno à div */
+    border: 2px solid black;
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    box-sizing: content-box;
+    justify-content: space-between;
+}
+.banner{
+    width: 100%;
+}
+p {
+    font-size: 14px;
+}
+.destaque{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px
+}
+.box-produto{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    text-align: center;
+width: 29%;
+
+}
+.img-box{
+width: 100%;
+
+}
+.Headproduct{
+    font-size: 1.9vw;
+    margin-bottom: 0%;
+    font-weight: bold;
+}
+.vlrfnl{
+    font-weight: bold;
+    font-size: 1.9vw;
+    color: rgba(66, 65, 65, 0.603);
+
+}
+.vlrinc{
+    font-size: 1.5vw;
+    color: rgba(255, 0, 0, 1);
+    text-decoration: line-through;
+     margin-bottom: 0%;
+}
+.footer{
+
+    text-align: center;
+    width: 100%;
+    background-color: #EACD91;
+    height: 100%;
+}
+.logo1{
+    width: 15%;
+
+}
+.tittle1{
+    text-align: left;
+    font-size: 4vw;
+    margin-bottom: 3%;
+    margin-left: 3%;
+}
+.tittle2{
+    text-align: center;
+    font-size: 3vw;
+
+}
+.beck{
+    text-align: center;
+}
+
+.Logo2{
+    width: 35%;
+    align-items: center;
+    text-align: center;
+    }
+    .Logo{
+        width: 75%;
+        align-items: center;
+        text-align: center;
+        }
+
+        .socio{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            flex-direction: column;
+            margin-top: 5%;
+            }
+            
+            .sociodesc{
+            width: 45%;
+            font-size: 3vw;
+            }
+            .sociodesc::first-letter{
+                color:#EACD91;
+                font-size:4.5vw ;
+                font-family: 'Stay Dreaming';
+                text-shadow: 0px 8px 8.5px  rgba(0, 0, 0, 0.479);
+                font-weight: bold;
+            }
+            .sociotext{
+            text-align: center;
+            font-size: 4vw;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-shadow: 0px 8px 8.5px  rgba(0, 0, 0, 0.295);
+            }
+            .sociotext::first-letter{
+             
+                font-family:Georgia, 'Times New Roman', Times, serif
+            }
+            .sociotext2{
+
+                font-family:Georgia, 'Times New Roman', Times, serif
+            }
+            .sociotext3{
+font-size:5vw;
+                font-family: 'Stay Dreaming';
+            }
+            .socioimg{
+                text-align: center;
+            }
+            
+            .Caesar{
+                text-shadow: 0px 8px 8.5px  rgba(0, 0, 0, 0.295);
+                font-size:2.65vw ;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+
+            .container1{
+
+margin-top: 5%;
+margin-bottom: 3%;
+            }
+
+
+            .container2{
+
+
+                margin-top: 5%;
+                margin-bottom: 3%;
+            }
+#nav-text1{
+
+    font-size: 1.5vw;
+    
+    }
+    #nav-text2{
+    
+        font-size: 1.5vw;
+        
+        }
+        #nav-text3{
+    
+            font-size: 1.5vw;
+            
+            }
+            #nav-text4{
+    
+                font-size: 1.5vw;
+                
+                }
+                #nav-text5{
+    
+                    font-size: 1.5vw;
+                    }
+
+                    .beckhum
+                    {
+                        color:#EACD91;
+                        font-size:5.5vw ;
+                        font-family: 'Stay Dreaming';
+                        text-shadow: 0px 8px 8.5px  rgba(0, 0, 0, 0.445);
+                    }
